@@ -1,6 +1,6 @@
 cask "blueprint-plus" do
-  version "1.1"
-  sha256 "303a48bec2c9b38abd483198f0abc1aefe7351bfa6af4c6bb1f4980f20e779b5"
+  version "1.1.1"
+  sha256 "2dcd6426160e729a3c879e5f35fec0fc7887f974df2bf93a38b85c95456b3395"
 
   url "https://github.com/lukeadair/blueprint-plus-macos/releases/download/v#{version}/Blueprint+-#{version}.dmg"
   name "Blueprint+"
